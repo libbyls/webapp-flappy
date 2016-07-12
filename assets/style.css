@@ -1,0 +1,26 @@
+h2 {
+  color: darkblue;
+  font-size: 25px;
+  font-style: oblique;
+}
+
+.gold {
+  color:gold;
+}
+
+.silver {
+  color:silver;
+}
+
+.bronze {
+  color:#ba7c37;
+}
+
+#gamelink {
+  text-align: center;
+  border: 1px solid gray;
+}
+
+.btn btn-default {
+  text-align: center;
+}
