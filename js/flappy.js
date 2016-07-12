@@ -35,7 +35,7 @@ function create() {
 
 game.physics.startSystem(Phaser.Physics.Arcade);
 game.physics.arcade.enable(player);
-player.body.gravity.y = 400;
+player.body.gravity.y = 800;
 
 game.input
       .keyboard.addKey(Phaser.Keyboard.SPACEBAR)
